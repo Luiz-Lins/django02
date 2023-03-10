@@ -1,3 +1,3 @@
 # django02
 
-Teste GA
+Aplicação disponível em: https://django02fly.fly.dev/
